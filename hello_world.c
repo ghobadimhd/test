@@ -9,6 +9,6 @@ describtion : This is program for testing vim snippets and gitHub
 
 int main(int argc, const char *argv[])
 {
-	printf("Hello world .\n");
+	printf("bye bye  world .\n");
 	return 0;
 }
